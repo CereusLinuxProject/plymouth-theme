@@ -5,7 +5,7 @@ A simply plymouth theme for Cereus Linux
 # INSTALLATION:
 You can install manually using the next commands on your terminal:
 
- git clone 
+ git clone https://github.com/CereusLinuxProject/cereus_simply.git
  
  sudo cp -r cereus_simply/ /usr/share/plymouth/themes/
  
