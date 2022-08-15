@@ -1,6 +1,6 @@
 # cereus_simply
 A simply plymouth theme for Cereus Linux
-![Preview](preview.png)
+![Preview](preview.gif)
 
 # INSTALLATION:
 You can install manually using the next commands on your terminal:
